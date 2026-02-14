@@ -1,15 +1,11 @@
 ## Interface: 30300
 ## Title: HandyNotes_LunarFestival
-## Notes: Displays the locations of Lunar Festival elders.
-## Author: Hiroshi Richi
-## Version: v1.0.0
+## Notes: Displays the locations of Lunar Festival elders. Backport for WoW 3.3.5a (WotLK). Fork of Ravendwyr/HandyNotes_LunarFestival.
+## Author: Ravendwyr
+## Version: v1.6.3-wotlk335a.1
 ## X-Category: Map & Minimap
 ## SavedVariables: HandyNotes_LunarFestivalDB
 ## RequiredDeps: HandyNotes
-## X-Curse-Packaged-Version: v1.0.0
-## X-Curse-Project-Name: HandyNotes_LunarFestival
-## X-Curse-Project-ID: handynotes_lunarfestival
-## X-Curse-Repository-ID: wow/handynotes_lunarfestival/mainline
 
 Core.lua
 Data.lua
