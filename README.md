@@ -1,29 +1,18 @@
-# HandyNotes - Lunar Festival
+# HandyNotes - Lunar Festival 3.3.5a
 
-Marks the locations of Lunar Festival elders on the worldmap and minimap.
+A WoW WotLK Retail addon that Marks the locations of Lunar Festival elders on the worldmap and minimap.
 
-[![Builder](https://img.shields.io/github/workflow/status/ravendwyr/handynotes_lunarfestival/Upload?label=Build&logo=github+actions&style=flat-square)](https://github.com/Ravendwyr/HandyNotes_LunarFestival/actions)
-[![Version](https://img.shields.io/github/v/tag/ravendwyr/handynotes_lunarfestival?label=Version&logo=curseforge&style=flat-square)](https://www.curseforge.com/wow/addons/handynotes_lunarfestival/files/all)
-[![Tracker](https://img.shields.io/github/issues/ravendwyr/handynotes_lunarfestival?label=Issues&logo=github&style=flat-square)](https://github.com/Ravendwyr/HandyNotes_LunarFestival/issues)
+![Interface: 30300](https://img.shields.io/badge/Interface-30300-blue) ![WotLK Retail](https://img.shields.io/badge/WotLK-Retail-yellow)
 
 ***
 
 ## The Quick Intro
 
-This addon displays locations of unvisited elders on the worldmap and minimap.
-If you also have [TomTom](https://www.curseforge.com/wow/addons/tomtom), you can right-click on a marker to create a Waypoint arrow.
+This addon displays locations elders on the worldmap and minimap.
 
 This addon is the successor to [TourGuide - The Lunar Festival](https://github.com/Ravendwyr/TourGuide_LunarFestival).
 
-Requires [HandyNotes](https://www.curseforge.com/wow/addons/handynotes) v1.5.0 or newer to work.
-
-## Configuration
-
-There are a few options you can modify, including:
-
-* Icon size.
-* Icon transparency.
-* Show all icons, even if you have already visited that Elder.
+Requires [HandyNotes](https://www.curseforge.com/wow/addons/handynotes) v1.1.5 to work.
 
 ## Translations
 
