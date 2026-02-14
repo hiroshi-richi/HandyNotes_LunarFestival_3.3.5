@@ -1,12 +1,15 @@
-## Interface: 90005
+## Interface: 30300
 ## Title: HandyNotes_LunarFestival
 ## Notes: Displays the locations of Lunar Festival elders.
-## Author: Ravendwyr
-## Version: @project-version@
+## Author: Hiroshi Richi
+## Version: v1.0.0
 ## X-Category: Map & Minimap
 ## SavedVariables: HandyNotes_LunarFestivalDB
 ## RequiredDeps: HandyNotes
-## X-Curse-Project-ID: 45902
+## X-Curse-Packaged-Version: v1.0.0
+## X-Curse-Project-Name: HandyNotes_LunarFestival
+## X-Curse-Project-ID: handynotes_lunarfestival
+## X-Curse-Repository-ID: wow/handynotes_lunarfestival/mainline
 
 Core.lua
 Data.lua
